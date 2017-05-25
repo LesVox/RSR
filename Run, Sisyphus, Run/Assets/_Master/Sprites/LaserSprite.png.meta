@@ -1,0 +1,1190 @@
+fileFormatVersion: 2
+guid: 36c117dace5cbd54889af64464c8be5a
+timeCreated: 1493237876
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: LaserSprite_0
+    21300002: LaserSprite_1
+    21300004: LaserSprite_2
+    21300006: LaserSprite_3
+    21300008: LaserSprite_4
+    21300010: LaserSprite_5
+    21300012: LaserSprite_6
+    21300014: LaserSprite_7
+    21300016: LaserSprite_8
+    21300018: LaserSprite_9
+    21300020: LaserSprite_10
+    21300022: LaserSprite_11
+    21300024: LaserSprite_12
+    21300026: LaserSprite_13
+    21300028: LaserSprite_14
+    21300030: LaserSprite_15
+    21300032: LaserSprite_16
+    21300034: LaserSprite_17
+    21300036: LaserSprite_18
+    21300038: LaserSprite_19
+    21300040: LaserSprite_20
+    21300042: LaserSprite_21
+    21300044: LaserSprite_22
+    21300046: LaserSprite_23
+    21300048: LaserSprite_24
+    21300050: LaserSprite_25
+    21300052: LaserSprite_26
+    21300054: LaserSprite_27
+    21300056: LaserSprite_28
+    21300058: LaserSprite_29
+    21300060: LaserSprite_30
+    21300062: LaserSprite_31
+    21300064: LaserSprite_32
+    21300066: LaserSprite_33
+    21300068: LaserSprite_34
+    21300070: LaserSprite_35
+    21300072: LaserSprite_36
+    21300074: LaserSprite_37
+    21300076: LaserSprite_38
+    21300078: LaserSprite_39
+    21300080: LaserSprite_40
+    21300082: LaserSprite_41
+    21300084: LaserSprite_42
+    21300086: LaserSprite_43
+    21300088: LaserSprite_44
+    21300090: LaserSprite_45
+    21300092: LaserSprite_46
+    21300094: LaserSprite_47
+    21300096: LaserSprite_48
+    21300098: LaserSprite_49
+    21300100: LaserSprite_50
+    21300102: LaserSprite_51
+    21300104: LaserSprite_52
+    21300106: LaserSprite_53
+    21300108: LaserSprite_54
+    21300110: LaserSprite_55
+    21300112: LaserSprite_56
+    21300114: LaserSprite_57
+    21300116: LaserSprite_58
+    21300118: LaserSprite_59
+    21300120: LaserSprite_60
+    21300122: LaserSprite_61
+    21300124: LaserSprite_62
+    21300126: LaserSprite_63
+    21300128: LaserSprite_64
+    21300130: LaserSprite_65
+    21300132: LaserSprite_66
+    21300134: LaserSprite_67
+    21300136: LaserSprite_68
+    21300138: LaserSprite_69
+    21300140: LaserSprite_70
+    21300142: LaserSprite_71
+    21300144: LaserSprite_72
+    21300146: LaserSprite_73
+    21300148: LaserSprite_74
+    21300150: LaserSprite_75
+    21300152: LaserSprite_76
+    21300154: LaserSprite_77
+    21300156: LaserSprite_78
+  serializedVersion: 4
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: -1
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  platformSettings:
+  - buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Standalone
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  - buildTarget: Android
+    maxTextureSize: 2048
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LaserSprite_0
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 794
+        width: 184
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_1
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 899
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_2
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 920
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_3
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 813
+        width: 138
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_4
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 906
+        width: 9
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_5
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 900
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_6
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 812
+        width: 65
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_7
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 805
+        width: 151
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_8
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 895
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_9
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 897
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_10
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 898
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_11
+      rect:
+        serializedVersion: 2
+        x: 480
+        y: 891
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_12
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 893
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_13
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 877
+        width: 4
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_14
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 828
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_15
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 831
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_16
+      rect:
+        serializedVersion: 2
+        x: 620
+        y: 852
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_17
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 833
+        width: 24
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_18
+      rect:
+        serializedVersion: 2
+        x: 485
+        y: 827
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_19
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 819
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_20
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 602
+        width: 176
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_21
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 726
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_22
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 708
+        width: 16
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_23
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 720
+        width: 5
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_24
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 616
+        width: 164
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_25
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 711
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_26
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 684
+        width: 30
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_27
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 638
+        width: 87
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_28
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 705
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_29
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 689
+        width: 8
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_30
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 683
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_31
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 617
+        width: 86
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_32
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 648
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_33
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 650
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_34
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 648
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_35
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 419
+        width: 173
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_36
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 422
+        width: 162
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_37
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 528
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_38
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 507
+        width: 38
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_39
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 516
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_40
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 448
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_41
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 503
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_42
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 421
+        width: 104
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_43
+      rect:
+        serializedVersion: 2
+        x: 622
+        y: 504
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_44
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 489
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_45
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 488
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_46
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 474
+        width: 13
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_47
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 488
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_48
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 238
+        width: 173
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_49
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 232
+        width: 164
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_50
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 226
+        width: 107
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_51
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 316
+        width: 9
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_52
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 319
+        width: 4
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_53
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 260
+        width: 45
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_54
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 300
+        width: 5
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_55
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 268
+        width: 5
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_56
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 272
+        width: 25
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_57
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 292
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_58
+      rect:
+        serializedVersion: 2
+        x: 604
+        y: 303
+        width: 10
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_59
+      rect:
+        serializedVersion: 2
+        x: 610
+        y: 271
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_60
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 254
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_61
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 255
+        width: 5
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_62
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 244
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_63
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 242
+        width: 4
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_64
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 34
+        width: 166
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_65
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 35
+        width: 159
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_66
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 133
+        width: 10
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_67
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 137
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_68
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 123
+        width: 15
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_69
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 35
+        width: 150
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_70
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 128
+        width: 6
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_71
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 126
+        width: 7
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_72
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 71
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_73
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 105
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_74
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 92
+        width: 5
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_75
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 76
+        width: 5
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_76
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 62
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_77
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 49
+        width: 4
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    - serializedVersion: 2
+      name: LaserSprite_78
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 50
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      tessellationDetail: 0
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
